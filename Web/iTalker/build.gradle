@@ -11,6 +11,8 @@ repositories {
 }
 
 dependencies {
+
+//    compile
     // Gson json
     compile 'com.google.code.gson:gson:2.8.0'
     // Guava java 类封装
